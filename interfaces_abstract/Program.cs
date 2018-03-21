@@ -22,7 +22,7 @@ namespace interfaces_abstract
 
         protected override void Sides()
         {
-            Console.WriteLine("4");
+            Console.WriteLine("Sides: 4");
         }
 
         public int Perimeter(int l, int b)
